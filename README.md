@@ -1,7 +1,3 @@
-Voici un **README.md** stylé pour ton projet :  
-
----
-
 # 🏆 L'Ultime Défi 🏆  
 
 Un quiz en **C** qui mettra tes connaissances à rude épreuve à travers **trois niveaux de difficulté** ! Arriveras-tu à relever **L'Ultime Défi** ?  
